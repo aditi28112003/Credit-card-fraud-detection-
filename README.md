@@ -36,7 +36,7 @@ Dependencies
 
 Dataset
 
-The dataset used in this project contains credit card transactions labeled as fraudulent or legitimate. It is not included in this repository due to its size. You can obtain the dataset from source.
+The dataset used in this project contains credit card transactions labeled as fraudulent or legitimate. It is not included in this repository due to its size. You can obtain the dataset from kaggle.
 Approach
 
     Data Preprocessing: The dataset is preprocessed to handle missing values, normalize features, and encode categorical variables if necessary.
